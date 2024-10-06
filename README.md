@@ -38,4 +38,3 @@
 ### Conclusion:
 This project successfully establishes a CNN-based pipeline for pneumonia detection from chest X-ray images. With careful data handling, appropriate CNN architecture, and rigorous training procedures, the model provides accurate classifications and can assist medical professionals in diagnosing pneumonia. The use of data augmentation, early stopping, and other regularization techniques ensures that the model generalizes well to new, unseen data.
 
-If you need further clarification on specific areas like optimization techniques or the evaluation process, feel free to ask!

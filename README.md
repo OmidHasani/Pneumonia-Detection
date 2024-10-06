@@ -1,6 +1,9 @@
 
 ### Pneumonia Detection Using CNN:
 
+![jZqpV51](https://github.com/user-attachments/assets/836c11a1-2b2c-42ea-b0aa-a89df877c66f)
+
+
 #### 1. **Libraries and Modules:**
    - The project utilizes **TensorFlow** and **Keras** for building and training the model, **OpenCV** for image processing, and **NumPy** for computational operations. Each library serves a specific purpose: TensorFlow/Keras for neural network functionality, OpenCV for handling image data, and NumPy for efficient data handling and manipulation.
 
